@@ -105,5 +105,5 @@ Tkinter is included with most standard Python installations.
 Clone the repository:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/flappy-bird-deluxe.git
+git clone https://github.com/raider-500/flappy-deluxe
 cd flappy-bird-deluxe
