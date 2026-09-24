@@ -31,15 +31,18 @@ A polished Flappy Bird-inspired game built entirely in Python using `tkinter`, f
 
 ### Main Menu
 
-![Main Menu](screenshots/menu.png)
+![Main Menu](<img width="591" height="828" alt="image" src="https://github.com/user-attachments/assets/7cbded3d-377e-453d-972a-31e9ff03336a" />
+)
 
 ### Gameplay
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](<img width="604" height="800" alt="image" src="https://github.com/user-attachments/assets/d5803e40-00ba-48d6-8c80-3e443015df1a" />
+)
 
 ### Pause Menu
 
-![Pause Menu](screenshots/pause.png)
+![Pause Menu](<img width="600" height="796" alt="{DA1D8876-AEF9-4986-A3EE-0B6D503C1C3F}" src="https://github.com/user-attachments/assets/e54be0dc-5d0f-40c5-96ac-a251d8cba2a8" />
+)
 
 ### Settings
 
@@ -47,7 +50,8 @@ A polished Flappy Bird-inspired game built entirely in Python using `tkinter`, f
 
 ### Game Over
 
-![Game Over](screenshots/gameover.png)
+![Game Over](![Uploading image.png…]()
+)
 
 ## Sky Themes
 
